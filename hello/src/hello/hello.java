@@ -1,9 +1,0 @@
-package hello;
-
-public class hello {
-
-	public hello() {
-		// TODO Auto-generated constructor stub
-	}
-// dd
-}
